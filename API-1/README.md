@@ -18,6 +18,8 @@
 
 A finalidade do projeto foi desenvolver uma plataforma de vendas de conteúdos didáticos de aula, no formato website para todos os tipos de estudantes, com o intuito de ser de fácil acesso e visualização, de maneira que o usuário possa adquirir um conteúdo, sendo ele com textos, vídeos ou jogos, e ele será disponibilizado na plataforma progressivamente, para download e utilização do usuário.
 
+Para acessar o GitHub do projeto clique [aqui](https://github.com/Lkduarte/EGY-Conteudos-Didaticos).
+
 </p>
 
 → [Voltar ao topo](#topo)
@@ -32,8 +34,6 @@ A finalidade do projeto foi desenvolver uma plataforma de vendas de conteúdos d
 ![20201129_212813](https://user-images.githubusercontent.com/71477357/100562662-1cd56980-329b-11eb-9261-69eed0d891cb.gif)
 
 ![20201129_234502](https://user-images.githubusercontent.com/71477357/100563461-2fe93900-329d-11eb-8a8c-f6e9801d6251.gif)
-
-Para acessar o GitHub do projeto clique [aqui](https://github.com/Lkduarte/EGY-Conteudos-Didaticos).
 
 </div>
 
