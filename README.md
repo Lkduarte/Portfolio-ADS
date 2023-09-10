@@ -14,7 +14,7 @@
 
 Sou estudante do curso superior em Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, atualmente cursando o 5º semestre.
 
-Sou fascinado pela área da programação desde o ensino médio, quando fiz parte de uma equipe de robótica, na qual participávamos da FIRST Robotics Competition, uma competição de robótica internacional com foco em alunos do ensino médio, onde tive o primeiro contato com a programação atráves de arduínos, onde utilizavamos C++ para seu controle.
+Fascinado pela área da programação desde o ensino médio, participei de uma equipe de robótica, na qual disputamos na FIRST Robotics Competition, uma competição de robótica internacional com foco em alunos do ensino médio, onde tive o primeiro contato com a programação atráves de arduínos, onde utilizavamos C++ para seu controle.
 
 Durante o segundo semestre do curso, tive a oportunidade de estagiar como desenvolvedor full stack em uma empresa parceira do Projeto Integrador da FATEC, onde adquiri novas experiências e habilidades, trabalhando com metodologias ageis, linguagens e frameworks que não conhecia, e me desenvolvendo como programador. No final do ano de 2022, recebi uma proposta de uma empresa chamada Mkplace Technology, onde atuo atualmente como desenvolvedor junior backend, onde pude me desenvolver ainda mais profissionalmente, atuando com o desenvolvimento de APIs, banco de dados NoSQL, serviços AWS, metodologia agil, entre outras ferramentas das quais me ajudaram a melhorar minha percepção na programação.
 
