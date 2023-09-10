@@ -10,7 +10,7 @@
 
 <div align='justify'>
 
-<img align="right" style=" border-radius: 0%; padding-left:10px" alt="perfilImg" src="images\avatar.png" width="200">
+<img align="right" style="border-radius: 50%; padding-left:10px" alt="perfilImg" src="https://avatars.githubusercontent.com/u/71477357?v=4" width="200" class="avatar avatar-user width-full border color-bg-default">
 
 Sou estudante do curso superior em Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, atualmente cursando o 5º semestre.
 
