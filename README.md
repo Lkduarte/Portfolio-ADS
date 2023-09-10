@@ -82,7 +82,7 @@ Este repositório o objetivo de reunir todos os projetos de API (Aprendizagem po
   
  |   API  |    Descrição    |    Empresa Parceira    |
  | :------: | :------: | :------: 
- | [1° Semestre]()   | Website de vendas de conteúdos didáticos | Cliente Interno |
+ | [1° Semestre](https://github.com/Lkduarte/Portifolio-ADS/tree/main/API-1)   | Website de vendas de conteúdos didáticos | Cliente Interno |
  | 2° Semestre | Aplicação desktop para centralizar a troca de informações entre empresa e cliente | Pro4Tech |
  | 3° Semestre | Aplicação web para cálculo de distância de pouso de aeronaves | Embraer |
  | 4° Semestre | Plataforma web para gerenciamento de chamados internos | IonicHealth |
