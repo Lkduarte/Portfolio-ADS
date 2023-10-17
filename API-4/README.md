@@ -75,10 +75,10 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 ## Hard Skills
 
 - ### Desenvolvimento em Typescript
-> Sei fazer com autonomia.
+> Sei fazer com autonomia
 
 - ### Desenvolvimento Web em React
-> Sei fazer com autonomia.
+> Sei fazer com autonomia
 
 - ### Banco de Dados - PostgreSQL
 > Sei fazer com autonomia

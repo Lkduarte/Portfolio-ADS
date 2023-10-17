@@ -90,21 +90,21 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 > Sei fazer com autonomia.
 
 - ### Banco de Dados - MySQL
-> Sei fazer com autonomia
+> Sei fazer com autonomia.
 
 - ### Controle de versionamento - GIT
-> Sei fazer com autonomia
+> Sei fazer com autonomia.
 
 ## Soft Skills
 
 - ### Comunicação
- > Habilidade desenvolvida ao lado dos membros da equipe, buscando estar todos em sintonia.
+> Habilidade desenvolvida ao lado dos membros da equipe, buscando estar todos em sintonia.
 
 - ### Colaboração
->Habilidade utilizada para auxiliar os membros da equipe a desenvolver na linguagem do projeto e também em discussões sobre a realização do cálculo.
+> Habilidade utilizada para auxiliar os membros da equipe a desenvolver na linguagem do projeto e também em discussões sobre a realização do cálculo.
 
 - ### Proatividade
->Pelo meu conhecimento prévio na linguagem, consegui buscar soluções e abordagens diferentes.
+> Pelo meu conhecimento prévio na linguagem, consegui buscar soluções e abordagens diferentes.
 
 - ### Trabalho em equipe
 > Como citado nas habilidades anteriores, atuei sempre ao lado da equipe para o desenvolvimento e alinhamento de tasks.

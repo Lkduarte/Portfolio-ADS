@@ -96,14 +96,22 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 ## Hard Skills
 
-- Desenvolvimento WEB (Utilizando HTML & CSS);
-- Controle de versionamento (GIT)
+- ### Desenvolvimento WEB (Utilizando HTML & CSS);
+> Sei fazer com autonomia.
+
+- ### Controle de versionamento - GIT
+> Sei fazer com autonomia.
 
 ## Soft Skills
 
-- Comunicação: Realização de reuniões e alinhamentos diários com o time, para entender as dificuldades encontradas e decidir os próximos passos do projeto, e reuniões semanais com o cliente, para feedback do que já havia sido apresentado, entendimento de melhorias e aprimoramentos a serem inclusos;
-- Organização: Criação de um cronograma do projeto, contendo todas as atividades a serem executadas, com cálculo de esforço da tarefa, onde cria-se um ambiente mais organizado de trabalho;
-- Proatividade: Como Scrum Master, estive sempre me comunicando com os demais integrantes da equipe, buscando entender o que estava sendo executado no projeto, oferecendo ajuda caso necessária.
+- ### Comunicação
+> Realização de reuniões e alinhamentos diários com o time, para entender as dificuldades encontradas e decidir os próximos passos do projeto, e reuniões semanais com o cliente, para feedback do que já havia sido apresentado, entendimento de melhorias e aprimoramentos a serem inclusos.
+
+- ### Organização
+> Criação de um cronograma do projeto, contendo todas as atividades a serem executadas, com cálculo de esforço da tarefa, onde cria-se um ambiente mais organizado de trabalho.
+
+- ### Proatividade
+> Como Scrum Master, estive sempre me comunicando com os demais integrantes da equipe, buscando entender o que estava sendo executado no projeto, oferecendo ajuda caso necessária.
 
 → [Voltar ao topo](#topo)
 
