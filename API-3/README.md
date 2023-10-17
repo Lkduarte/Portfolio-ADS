@@ -29,15 +29,15 @@ Para acessar o GitHub do projeto clique [aqui](https://github.com/Lkduarte/API_E
 
 ## Demonstração
 
-<video src="videos/204178468-670df896-4009-41de-a2fe-a0d3a3cb383d.mp4" controls title="Title"></video>
+https://github.com/Lkduarte/Portfolio-ADS/assets/71477357/40e3d176-77c1-4426-a40e-bfe55deef2fe
 
-<video src="videos/204177913-5033556b-7b08-47f0-acac-18038db1372f.mp4" controls title="Title"></video>
+https://github.com/Lkduarte/Portfolio-ADS/assets/71477357/ac5cfda9-1535-42f9-bdd0-3641652182e9
 
-<video src="videos/204177931-23b07690-32ee-4099-aea5-5fc7fa1c2f3c.mp4" controls title="Title"></video>
+https://github.com/Lkduarte/Portfolio-ADS/assets/71477357/fdb18b4e-21cf-49b0-ab56-6aa76324b4b5
 
-<video src="videos/204177951-a1793c40-2065-441c-82cd-e3fe6ace666a.mp4" controls title="Title"></video>
+https://github.com/Lkduarte/Portfolio-ADS/assets/71477357/36341ae6-0a19-48bc-a974-b1cf8442d291
 
-<video src="videos/204177964-65c7e425-47ff-4570-b5df-8438089cb769.mp4" controls title="Title"></video>
+https://github.com/Lkduarte/Portfolio-ADS/assets/71477357/be568dd7-f14a-4e1f-a72a-7ee0ad84c1d5
 
 </div>
 
