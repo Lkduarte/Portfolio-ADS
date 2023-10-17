@@ -28,7 +28,8 @@ Para acessar o GitHub do projeto clique [aqui](https://github.com/Lkduarte/Solut
 <div id="demonstration">
 
 ## Demonstração
-<video src="videos/243224871-36e0b209-5fb1-4365-b618-7891862fd56c.mp4" controls title="Title"></video>
+
+https://github.com/Lkduarte/Portfolio-ADS/assets/71477357/25a23269-9e7a-4253-a158-dba35437ac61
 
 </div>
 
