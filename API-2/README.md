@@ -29,7 +29,7 @@ Para acessar o GitHub do projeto clique [aqui](https://github.com/Lkduarte/Pro4T
 
 ## Demonstração
 
-<video src="videos/172076932-08240c10-9f08-423c-9c9b-707b7f043486.mp4" controls title="Title"></video>
+https://github.com/Lkduarte/Portfolio-ADS/assets/71477357/25b80d81-f155-440a-b2c0-f54d59b8497b
 
 </div>
 
@@ -94,3 +94,6 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 → [Voltar ao topo](#topo)
 
 </div>
+
+
+
