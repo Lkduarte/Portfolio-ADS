@@ -1,7 +1,7 @@
 <div align='center'>
 
 # Lucas Nunes Duarte do Nascimento
- 
+
 ## Introdução
 
 </div>
@@ -19,6 +19,7 @@ Fascinado pela área da programação desde o ensino médio, participei de uma e
 Durante o segundo semestre do curso, tive a oportunidade de estagiar como desenvolvedor full stack em uma empresa parceira do Projeto Integrador da FATEC, onde adquiri novas experiências e habilidades, trabalhando com metodologias ageis, linguagens e frameworks que não conhecia, e me desenvolvendo como programador. No final do ano de 2022, recebi uma proposta de uma empresa chamada Mkplace Technology, onde atuo atualmente como desenvolvedor junior backend, onde pude me desenvolver ainda mais profissionalmente, atuando com o desenvolvimento de APIs, banco de dados NoSQL, serviços AWS, metodologia ágil, entre outras ferramentas das quais me ajudaram a melhorar minha percepção na programação.
 
 Este repositório o objetivo de reunir todos os projetos de API (Aprendizagem por Projetos Integrados) desenvolvidos durante o curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
+
 </div>
 
 <br />
@@ -79,26 +80,25 @@ Este repositório o objetivo de reunir todos os projetos de API (Aprendizagem po
 <div align="left">
 
 > _Clique em uma das opções abaixo para ver mais detalhes sobre cada projeto._
-  
- |   API  |    Descrição    |    Empresa Parceira    |
- | :------: | :------: | :------: 
- | [1° Semestre](https://github.com/Lkduarte/Portfolio-ADS/tree/main/API-1)   | Website de vendas de conteúdos didáticos | Cliente Interno |
- | [2° Semestre](https://github.com/Lkduarte/Portfolio-ADS/tree/main/API-2) | Aplicação desktop para centralizar a troca de informações entre empresa e cliente | Pro4Tech |
- | [3° Semestre](https://github.com/Lkduarte/Portfolio-ADS/tree/main/API-3) | Aplicação web para cálculo de distância de pouso de aeronaves | Embraer |
- | [4° Semestre](https://github.com/Lkduarte/Portfolio-ADS/tree/main/API-4) | Plataforma web para gerenciamento de chamados internos | IonicHealth |
- | 5° Semestre | Aplicação mobile para cadastro e gerenciamento de equipamentos públicos em campo | Imagem |
 
+|                                   API                                    |                                     Descrição                                     | Empresa Parceira |
+| :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :--------------: |
+| [1° Semestre](https://github.com/Lkduarte/Portfolio-ADS/tree/main/API-1) |                     Website de vendas de conteúdos didáticos                      | Cliente Interno  |
+| [2° Semestre](https://github.com/Lkduarte/Portfolio-ADS/tree/main/API-2) | Aplicação desktop para centralizar a troca de informações entre empresa e cliente |     Pro4Tech     |
+| [3° Semestre](https://github.com/Lkduarte/Portfolio-ADS/tree/main/API-3) |           Aplicação web para cálculo de distância de pouso de aeronaves           |     Embraer      |
+| [4° Semestre](https://github.com/Lkduarte/Portfolio-ADS/tree/main/API-4) |              Plataforma web para gerenciamento de chamados internos               |   IonicHealth    |
+| [5° Semestre](https://github.com/Lkduarte/Portfolio-ADS/tree/main/API-5) | Aplicação mobile para cadastro e gerenciamento de equipamentos públicos em campo  |      Imagem      |
 
 </div>
 
-<div align="left"> 
+<div align="left">
 
 <br />
 
 ## :iphone: Contatos
 
- <a href = "mailto:luke_nunes@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:luke_nunes@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Lkduarte" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-nunes-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-</div>  
+</div>
