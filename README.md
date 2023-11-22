@@ -18,7 +18,7 @@ Fascinado pela área da programação desde o ensino médio, participei de uma e
 
 Durante o segundo semestre do curso, tive a oportunidade de estagiar como desenvolvedor full stack em uma empresa parceira do Projeto Integrador da FATEC, onde adquiri novas experiências e habilidades, trabalhando com metodologias ageis, linguagens e frameworks que não conhecia, e me desenvolvendo como programador. No final do ano de 2022, recebi uma proposta de uma empresa chamada Mkplace Technology, onde atuo atualmente como desenvolvedor junior backend, onde pude me desenvolver ainda mais profissionalmente, atuando com o desenvolvimento de APIs, banco de dados NoSQL, serviços AWS, metodologia ágil, entre outras ferramentas das quais me ajudaram a melhorar minha percepção na programação.
 
-Este repositório o objetivo de reunir todos os projetos de API (Aprendizagem por Projetos Integrados) desenvolvidos durante o curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
+Este repositório tem o objetivo de reunir todos os projetos de API (Aprendizagem por Projetos Integrados) desenvolvidos durante o curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
 </div>
 
